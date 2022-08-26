@@ -1,3 +1,4 @@
+#define Pass60
 //#define HD90
 
 using System;
