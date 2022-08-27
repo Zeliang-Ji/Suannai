@@ -6,6 +6,8 @@ MonoImporter:
   defaultReferences:
   - redObj: {fileID: 9004330107714230541, guid: caeea738ff67e324fa05b7636f5dc8af,
       type: 3}
+  - blueObj: {fileID: 772939167493734930, guid: e6b08d5cd8b730c48ac464f1a795a39f,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
