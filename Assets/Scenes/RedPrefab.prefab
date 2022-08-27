@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 9004330107714230536}
   - component: {fileID: 9004330107714230539}
   - component: {fileID: 9004330107714230538}
-  - component: {fileID: -8994302966397612703}
+  - component: {fileID: -9134722454211543244}
   m_Layer: 0
   m_Name: RedPrefab
   m_TagString: Untagged
@@ -98,17 +98,15 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &-8994302966397612703
+--- !u!114 &-9134722454211543244
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9004330107714230541}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f5dc36cfd2cb4544ace1c625532ca89, type: 3}
+  m_Script: {fileID: 11500000, guid: cd71268b956f6a34f83225d85f007d2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  redObj: {fileID: 9004330107714230541}
-  blueObj: {fileID: 772939167493734930, guid: e6b08d5cd8b730c48ac464f1a795a39f, type: 3}
